@@ -1,3 +1,11 @@
+# This project is no longer maintained
+
+As of November 7th, 2018, I've decided to end my commitment to maintaining this repo and related.
+
+It's been 3 years since I last used Elasticsearch, so I no longer have the motivation it takes to maintain and evolve this project. Also, other projects need all the attention I can give.
+
+It was a great run, **thank you all**.
+
 # docker-kibana
 
 This is [Kibana 6.3.1](https://github.com/elastic/kibana) in a minimal 184MB Docker image. Images are tagged by Kibana versions.
